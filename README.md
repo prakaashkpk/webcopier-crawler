@@ -1,4 +1,4 @@
-webcopier-crawler
+webcopier/crawler
 =================
 
 A simple web crawler/ copier to fetch web pages. 
